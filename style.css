@@ -1,13 +1,24 @@
+header {
+        width: 500px;
+        margin: 100px auto;
+        text-align: center;
+}
+
 body {
-    margin-left: 150;
+    margin-left: 100;
     background-color: #DAF7A6;
     text-align: center;
     
     }
 
-       
+    .intro {
+        width: 500px;
+        margin: 100px auto;
+        text-align: center;
+        
+    }
 img {
-width: 800px;
+width: 700px;
 height: 500px;
 
 }
