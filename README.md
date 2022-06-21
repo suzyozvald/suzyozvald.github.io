@@ -1,6 +1,5 @@
-# Repozitorij moje osobne web stranice.
-
-Ovdje ce se nalaziti HTML/CSS, mozda i JavaScript koji cine moju osobnu web stranicu.
+# Repozitorij moje osobne web stranice
+Vježba izrada prve web stranice
 
 Adresa moje web stranice je https://suzyozvald.github.io
 
